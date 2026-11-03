@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Md.%20Ashraful%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=IT%20Manager%20%7C%20IT%20Consultant%20%7C%20Systems%20Administrator&descSize=17&descAlignY=54&animation=twinkling" alt="Md. Ashraful Islam — IT Manager | IT Consultant | Systems Administrator" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=PowerShell+Automation+%7C+Active+Directory;Windows+Server+%26+Systems+Administration;Helpdesk+%26+IT+Support+Specialist;ERP+%2F+WMS+Support+Analyst" alt="PowerShell Automation | Active Directory — Windows Server & Systems Administration — Helpdesk & IT Support Specialist — ERP / WMS Support Analyst"/>
+</p>
+
 # Md. Ashraful Islam
 
 **IT Manager | IT Consultant | IT Support & Systems Administration**
@@ -5,6 +13,16 @@
 Mymensingh, Bangladesh · Open to relocate · Available immediately
 
 IT professional with **8+ years of experience across Bangladesh and Malaysia** — spanning IT operations management, systems administration, helpdesk leadership, and ERP/WMS support. I run infrastructure the disciplined way: documented, automated, and monitored. Currently Founder & IT Solutions Consultant at NextGen Solution, where I build automation that removes repetitive IT and administrative work.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server 2022"/>
+  <img src="https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
@@ -92,6 +110,15 @@ Following a structured 90-day plan based on current IT job-market requirements: 
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashBan007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats for ashBan007" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=ashBan007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak for ashBan007" width="49%"/>
+</p>
+
+---
+
 ## Contact
 
 - **Email:** ashshaan3@gmail.com
@@ -99,3 +126,7 @@ Following a structured 90-day plan based on current IT job-market requirements: 
 - **Phone:** +880 1911 508887
 
 *Target roles: IT Manager · IT Consultant · Helpdesk Engineer / IT Support Specialist · System & Network Administrator · ERP/WMS Support Analyst*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="" width="100%"/>
+</p>
