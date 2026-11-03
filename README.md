@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Md.%20Ashraful%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=IT%20Manager%20%7C%20IT%20Consultant%20%7C%20Systems%20Administrator&descSize=17&descAlignY=54&animation=twinkling" alt="Md. Ashraful Islam — IT Manager | IT Consultant | Systems Administrator" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3C6C&height=190&section=header&text=Md.%20Ashraful%20Islam&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=IT%20Manager%20%7C%20IT%20Consultant%20%7C%20Systems%20Administrator&descSize=17&descAlignY=54&animation=twinkling" alt="Md. Ashraful Islam — IT Manager | IT Consultant | Systems Administrator" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=PowerShell+Automation+%7C+Active+Directory;Windows+Server+%26+Systems+Administration;Helpdesk+%26+IT+Support+Specialist;ERP+%2F+WMS+Support+Analyst" alt="PowerShell Automation | Active Directory — Windows Server & Systems Administration — Helpdesk & IT Support Specialist — ERP / WMS Support Analyst"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0B5CAD&center=true&vCenter=true&width=720&lines=PowerShell+Automation+%7C+Active+Directory;Windows+Server+%26+Systems+Administration;Helpdesk+%26+IT+Support+Specialist;ERP+%2F+WMS+Support+Analyst" alt="PowerShell Automation | Active Directory — Windows Server & Systems Administration — Helpdesk & IT Support Specialist — ERP / WMS Support Analyst"/>
 </p>
 
 # Md. Ashraful Islam
@@ -128,5 +128,5 @@ Following a structured 90-day plan based on current IT job-market requirements: 
 *Target roles: IT Manager · IT Consultant · Helpdesk Engineer / IT Support Specialist · System & Network Administrator · ERP/WMS Support Analyst*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3C6C&height=110&section=footer" alt="" width="100%"/>
 </p>
