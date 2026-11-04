@@ -122,7 +122,7 @@ Following a structured 90-day plan based on current IT job-market requirements: 
 ## Contact
 
 - **Email:** ashshaan3@gmail.com
-- **LinkedIn:** [linkedin.com/in/ashraful-islam](https://www.linkedin.com/in/ashraful-islam)
+- **LinkedIn:** [linkedin.com/in/md-ashraful-islam-35bb95112](https://www.linkedin.com/in/md-ashraful-islam-35bb95112)
 - **Phone:** +880 1911 508887
 
 *Target roles: IT Manager · IT Consultant · Helpdesk Engineer / IT Support Specialist · System & Network Administrator · ERP/WMS Support Analyst*
